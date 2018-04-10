@@ -1,4 +1,4 @@
-var data = [
+const data = [
     {
 		"name": "Goethe-Institut Mexiko",
 		"img": "../assets/img/GIMexiko.jpg",
@@ -66,3 +66,5 @@ var data = [
 		}
 	}
 ];
+ 
+export default data;
